@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-LIVE SITE - https://sunnyside-frontendmentor-challenge.netlify.app/
+LIVE SITE - https://sunnyside-frontendmentor-challenge.netlify.app/. ----> currently best view on desktop 
 
 Thanks for checking out this front-end coding challenge.
 
